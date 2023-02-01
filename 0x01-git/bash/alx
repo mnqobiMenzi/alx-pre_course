@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "ALX"
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ ALX School
 "ALX School"
 >>>>>>> update_script
 "The school is open!"
+=======
+ALX School
+>>>>>>> update_script
